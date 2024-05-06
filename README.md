@@ -1,0 +1,20 @@
+# The Impossible Triangle in Deep Generative Models
+
+Simulations repo with full implementation details for "The Impossible Triangle in Deep Generative Models: Complexity, Dimensionality, and Approximation," submission number 3418. All experiments were run on a single machine with an RTX 4080 GPU (16 GB VRAM), however, all simulations as presented should not use anywhere near that much memory. The code is provided in notebooks with output saved.  
+
+## Files
+All source code for the main paper can be found in /main-simulations/ and all source code for the Appendix can be found in /appendix-simulations/. 
+
+
+## Main Dependencies 
+The main dependencies to run the notebooks are listed below:
+
+    - torch
+    - ot (python optimal transport, https://pythonot.github.io) 
+    - numpy
+    - matplotlib
+    - scipy
+
+## References
+
+Simulations presented here are adapted from examples provided in the POT package (https://pythonot.github.io/auto_examples/backends/plot_wass2_gan_torch.html#sphx-glr-auto-examples-backends-plot-wass2-gan-torch-py) 
