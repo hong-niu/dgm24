@@ -1,5 +1,4 @@
-# Deep Generative Models: Complexity,
-Dimensionality, and Approximation
+# Deep Generative Models: Complexity, Dimensionality, and Approximation
 
 Simulations repo with full implementation details for "Deep Generative Models: Complexity,
 Dimensionality, and Approximation." All experiments were run on a single machine with an RTX 4080 GPU (16 GB VRAM), however, all simulations as presented should not use anywhere near that much memory. The code is provided in notebooks with output saved.  
