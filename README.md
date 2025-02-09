@@ -4,7 +4,7 @@ Simulations repo with full implementation details for "Deep Generative Models: C
 Dimensionality, and Approximation." All experiments were run on a single machine with an RTX 4080 GPU (16 GB VRAM), however, all simulations as presented should not use anywhere near that much memory. The code is provided in notebooks with output saved.  
 
 ## Files
-All source code for the main paper can be found in /main-simulations/ and all source code for the Appendix can be found in /appendix-simulations/. 
+All source code for generating figures and performing experiments for the main paper and appendix can be found in /simulations/.
 
 
 ## Main Dependencies 
